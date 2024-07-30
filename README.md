@@ -2,4 +2,4 @@
 
 ![Screen](Code_1.png)
 
-![Screen](Code_2.png)
+![Screen](Code_2.jpg)
